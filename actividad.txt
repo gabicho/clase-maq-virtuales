@@ -1,0 +1,4 @@
+1.-Puede instalarse en algunos SO por la arquitextura, compatibilidad.
+2.-Soporta SO de windows, Linux, MmacOS.
+3.-Hipervisor se encarga de administrar los recursos de las maquinas virtuales, es una parte de la virtualizacion.
+4.-No se rompe, porque es una virtualizacion independiente.
